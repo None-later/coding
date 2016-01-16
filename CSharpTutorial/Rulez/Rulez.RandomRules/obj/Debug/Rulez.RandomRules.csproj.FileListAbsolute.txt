@@ -1,0 +1,9 @@
+C:\coding\CSharpTutorial\Rulez\Rulez.RandomRules\bin\Debug\Rulez.RandomRules.exe
+C:\coding\CSharpTutorial\Rulez\Rulez.RandomRules\bin\Debug\Rulez.RandomRules.pdb
+C:\coding\CSharpTutorial\Rulez\Rulez.RandomRules\bin\Debug\Rulez.Engine.dll
+C:\coding\CSharpTutorial\Rulez\Rulez.RandomRules\bin\Debug\StopWatch.dll
+C:\coding\CSharpTutorial\Rulez\Rulez.RandomRules\bin\Debug\Rulez.Engine.pdb
+C:\coding\CSharpTutorial\Rulez\Rulez.RandomRules\bin\Debug\StopWatch.pdb
+C:\coding\CSharpTutorial\Rulez\Rulez.RandomRules\obj\Debug\Rulez.RandomRules.csprojResolveAssemblyReference.cache
+C:\coding\CSharpTutorial\Rulez\Rulez.RandomRules\obj\Debug\Rulez.RandomRules.exe
+C:\coding\CSharpTutorial\Rulez\Rulez.RandomRules\obj\Debug\Rulez.RandomRules.pdb

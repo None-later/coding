@@ -1,0 +1,17 @@
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\LambdaDelegates\LambdaDelegates\bin\Debug\LambdaDelegates.exe.config
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\LambdaDelegates\LambdaDelegates\bin\Debug\LambdaDelegates.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\LambdaDelegates\LambdaDelegates\bin\Debug\LambdaDelegates.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\LambdaDelegates\LambdaDelegates\obj\Debug\LambdaDelegates.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\LambdaDelegates\LambdaDelegates\obj\Debug\LambdaDelegates.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Lambdas\LambdaDelegates\LambdaDelegates\bin\Debug\LambdaDelegates.exe.config
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Lambdas\LambdaDelegates\LambdaDelegates\obj\Debug\LambdaDelegates.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Lambdas\LambdaDelegates\LambdaDelegates\obj\Debug\LambdaDelegates.pdb
+C:\Users\Joe Marini\Desktop\Exercise Files\Lambdas\LambdaDelegates\LambdaDelegates\bin\Debug\LambdaDelegates.exe.config
+C:\Users\Joe Marini\Desktop\Exercise Files\Lambdas\LambdaDelegates\LambdaDelegates\obj\Debug\LambdaDelegates.exe
+C:\Users\Joe Marini\Desktop\Exercise Files\Lambdas\LambdaDelegates\LambdaDelegates\obj\Debug\LambdaDelegates.pdb
+C:\Users\Joe Marini\Desktop\Exercise Files\Lambdas\LambdaDelegates\LambdaDelegates\bin\Debug\LambdaDelegates.exe
+C:\Users\Joe Marini\Desktop\Exercise Files\Lambdas\LambdaDelegates\LambdaDelegates\bin\Debug\LambdaDelegates.pdb
+C:\Users\Joe Marini\Desktop\Exercise Files\Lambdas\LambdaDelegates\LambdaDelegates\obj\Debug\LambdaDelegates.csprojResolveAssemblyReference.cache
+C:\coding\ABC\CSharpTutorial\Ex_Files_C#_events\Exercise Files\Lambdas\LambdaDelegates\LambdaDelegates\bin\Debug\LambdaDelegates.exe.config
+C:\coding\ABC\CSharpTutorial\Ex_Files_C#_events\Exercise Files\Lambdas\LambdaDelegates\LambdaDelegates\obj\Debug\LambdaDelegates.exe
+C:\coding\ABC\CSharpTutorial\Ex_Files_C#_events\Exercise Files\Lambdas\LambdaDelegates\LambdaDelegates\obj\Debug\LambdaDelegates.pdb

@@ -1,0 +1,5 @@
+C:\coding\CSharpTutorial\Rulez\StopWatch\bin\Debug\StopWatch.dll
+C:\coding\CSharpTutorial\Rulez\StopWatch\bin\Debug\StopWatch.pdb
+C:\coding\CSharpTutorial\Rulez\StopWatch\obj\Debug\StopWatch.csprojResolveAssemblyReference.cache
+C:\coding\CSharpTutorial\Rulez\StopWatch\obj\Debug\StopWatch.dll
+C:\coding\CSharpTutorial\Rulez\StopWatch\obj\Debug\StopWatch.pdb

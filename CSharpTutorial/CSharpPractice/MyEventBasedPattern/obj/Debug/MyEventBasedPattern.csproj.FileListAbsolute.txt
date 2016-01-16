@@ -1,0 +1,6 @@
+C:\coding\ABC\CSharpTutorial\CSharpPractice\MyEventBasedPattern\bin\Debug\MyEventBasedPattern.exe.config
+C:\coding\ABC\CSharpTutorial\CSharpPractice\MyEventBasedPattern\bin\Debug\MyEventBasedPattern.exe
+C:\coding\ABC\CSharpTutorial\CSharpPractice\MyEventBasedPattern\bin\Debug\MyEventBasedPattern.pdb
+C:\coding\ABC\CSharpTutorial\CSharpPractice\MyEventBasedPattern\obj\Debug\MyEventBasedPattern.csprojResolveAssemblyReference.cache
+C:\coding\ABC\CSharpTutorial\CSharpPractice\MyEventBasedPattern\obj\Debug\MyEventBasedPattern.exe
+C:\coding\ABC\CSharpTutorial\CSharpPractice\MyEventBasedPattern\obj\Debug\MyEventBasedPattern.pdb

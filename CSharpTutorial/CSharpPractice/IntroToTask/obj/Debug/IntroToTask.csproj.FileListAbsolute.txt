@@ -1,0 +1,9 @@
+C:\coding\CSharpTutorial\CSharpPractice\IntroToTask\bin\Debug\IntroToTask.exe.config
+C:\coding\CSharpTutorial\CSharpPractice\IntroToTask\bin\Debug\IntroToTask.exe
+C:\coding\CSharpTutorial\CSharpPractice\IntroToTask\bin\Debug\IntroToTask.pdb
+C:\coding\CSharpTutorial\CSharpPractice\IntroToTask\obj\Debug\IntroToTask.exe
+C:\coding\CSharpTutorial\CSharpPractice\IntroToTask\obj\Debug\IntroToTask.pdb
+C:\coding\ABC\CSharpTutorial\CSharpPractice\IntroToTask\bin\Debug\IntroToTask.exe.config
+C:\coding\ABC\CSharpTutorial\CSharpPractice\IntroToTask\obj\Debug\IntroToTask.exe
+C:\coding\ABC\CSharpTutorial\CSharpPractice\IntroToTask\obj\Debug\IntroToTask.pdb
+C:\coding\ABC\CSharpTutorial\CSharpPractice\IntroToTask\obj\Debug\IntroToTask.csprojResolveAssemblyReference.cache

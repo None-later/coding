@@ -1,0 +1,12 @@
+C:\coding\CSharpTutorial\CSharpPractice\CSharpPractice\bin\Debug\CSharpPractice.exe.config
+C:\coding\CSharpTutorial\CSharpPractice\CSharpPractice\bin\Debug\CSharpPractice.exe
+C:\coding\CSharpTutorial\CSharpPractice\CSharpPractice\bin\Debug\CSharpPractice.pdb
+C:\coding\CSharpTutorial\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.csprojResolveAssemblyReference.cache
+C:\coding\CSharpTutorial\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.exe
+C:\coding\CSharpTutorial\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.pdb
+C:\coding\ABC\CSharpTutorial\CSharpPractice\CSharpPractice\bin\Debug\CSharpPractice.exe.config
+C:\coding\ABC\CSharpTutorial\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.exe
+C:\coding\ABC\CSharpTutorial\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.pdb
+C:\coding\ABC\CSharpTutorial\CSharpPractice\CSharpPractice\bin\Debug\CSharpPractice.exe
+C:\coding\ABC\CSharpTutorial\CSharpPractice\CSharpPractice\bin\Debug\CSharpPractice.pdb
+C:\coding\ABC\CSharpTutorial\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.csprojResolveAssemblyReference.cache

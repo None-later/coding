@@ -1,0 +1,37 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rulez.Engine", "Rulez.Engine\Rulez.Engine.csproj", "{737BE3BA-27C4-4008-A66A-66C0DB81B619}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rulez.RandomRules", "Rulez.RandomRules\Rulez.RandomRules.csproj", "{5C1C4730-6B3E-4165-AFB5-6C304DA11E67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rulez.OverTime", "Rulez.OverTime\Rulez.OverTime.csproj", "{BFB1D544-BAD1-484C-BB2A-6ED1B5552189}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StopWatch", "StopWatch\StopWatch.csproj", "{115FACC0-C426-40E0-B540-3CD967249547}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{737BE3BA-27C4-4008-A66A-66C0DB81B619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{737BE3BA-27C4-4008-A66A-66C0DB81B619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{737BE3BA-27C4-4008-A66A-66C0DB81B619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{737BE3BA-27C4-4008-A66A-66C0DB81B619}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C1C4730-6B3E-4165-AFB5-6C304DA11E67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C1C4730-6B3E-4165-AFB5-6C304DA11E67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C1C4730-6B3E-4165-AFB5-6C304DA11E67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C1C4730-6B3E-4165-AFB5-6C304DA11E67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFB1D544-BAD1-484C-BB2A-6ED1B5552189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB1D544-BAD1-484C-BB2A-6ED1B5552189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB1D544-BAD1-484C-BB2A-6ED1B5552189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB1D544-BAD1-484C-BB2A-6ED1B5552189}.Release|Any CPU.Build.0 = Release|Any CPU
+		{115FACC0-C426-40E0-B540-3CD967249547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{115FACC0-C426-40E0-B540-3CD967249547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{115FACC0-C426-40E0-B540-3CD967249547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{115FACC0-C426-40E0-B540-3CD967249547}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

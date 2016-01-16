@@ -1,0 +1,6 @@
+C:\coding\ABC\CSharpTutorial\CSharpPractice\DigitalBank\bin\Debug\DigitalBank.exe.config
+C:\coding\ABC\CSharpTutorial\CSharpPractice\DigitalBank\obj\Debug\DigitalBank.csprojResolveAssemblyReference.cache
+C:\coding\ABC\CSharpTutorial\CSharpPractice\DigitalBank\bin\Debug\DigitalBank.exe
+C:\coding\ABC\CSharpTutorial\CSharpPractice\DigitalBank\bin\Debug\DigitalBank.pdb
+C:\coding\ABC\CSharpTutorial\CSharpPractice\DigitalBank\obj\Debug\DigitalBank.exe
+C:\coding\ABC\CSharpTutorial\CSharpPractice\DigitalBank\obj\Debug\DigitalBank.pdb

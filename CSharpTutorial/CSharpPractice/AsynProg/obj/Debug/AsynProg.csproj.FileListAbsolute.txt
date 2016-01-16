@@ -1,0 +1,6 @@
+C:\coding\ABC\CSharpTutorial\CSharpPractice\AsynProg\bin\Debug\AsynProg.exe.config
+C:\coding\ABC\CSharpTutorial\CSharpPractice\AsynProg\bin\Debug\AsynProg.exe
+C:\coding\ABC\CSharpTutorial\CSharpPractice\AsynProg\bin\Debug\AsynProg.pdb
+C:\coding\ABC\CSharpTutorial\CSharpPractice\AsynProg\obj\Debug\AsynProg.csprojResolveAssemblyReference.cache
+C:\coding\ABC\CSharpTutorial\CSharpPractice\AsynProg\obj\Debug\AsynProg.exe
+C:\coding\ABC\CSharpTutorial\CSharpPractice\AsynProg\obj\Debug\AsynProg.pdb

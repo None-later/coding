@@ -1,0 +1,18 @@
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\AnonymousDelegates\AnonymousDelegates\bin\Debug\AnonymousDelegates.exe.config
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\AnonymousDelegates\AnonymousDelegates\bin\Debug\AnonymousDelegates.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\AnonymousDelegates\AnonymousDelegates\bin\Debug\AnonymousDelegates.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\AnonymousDelegates\AnonymousDelegates\obj\Debug\AnonymousDelegates.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\AnonymousDelegates\AnonymousDelegates\obj\Debug\AnonymousDelegates.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\AnonymousDelegates\AnonymousDelegates\obj\Debug\AnonymousDelegates.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Delegates\AnonymousDelegates\AnonymousDelegates\bin\Debug\AnonymousDelegates.exe.config
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Delegates\AnonymousDelegates\AnonymousDelegates\obj\Debug\AnonymousDelegates.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Delegates\AnonymousDelegates\AnonymousDelegates\obj\Debug\AnonymousDelegates.pdb
+C:\Users\Joe Marini\Desktop\Exercise Files\Delegates\AnonymousDelegates\AnonymousDelegates\bin\Debug\AnonymousDelegates.exe.config
+C:\Users\Joe Marini\Desktop\Exercise Files\Delegates\AnonymousDelegates\AnonymousDelegates\obj\Debug\AnonymousDelegates.exe
+C:\Users\Joe Marini\Desktop\Exercise Files\Delegates\AnonymousDelegates\AnonymousDelegates\obj\Debug\AnonymousDelegates.pdb
+C:\Users\Joe Marini\Desktop\Exercise Files\Delegates\AnonymousDelegates\AnonymousDelegates\bin\Debug\AnonymousDelegates.exe
+C:\Users\Joe Marini\Desktop\Exercise Files\Delegates\AnonymousDelegates\AnonymousDelegates\bin\Debug\AnonymousDelegates.pdb
+C:\Users\Joe Marini\Desktop\Exercise Files\Delegates\AnonymousDelegates\AnonymousDelegates\obj\Debug\AnonymousDelegates.csprojResolveAssemblyReference.cache
+C:\coding\ABC\CSharpTutorial\Ex_Files_C#_events\Exercise Files\Delegates\AnonymousDelegates\AnonymousDelegates\bin\Debug\AnonymousDelegates.exe.config
+C:\coding\ABC\CSharpTutorial\Ex_Files_C#_events\Exercise Files\Delegates\AnonymousDelegates\AnonymousDelegates\obj\Debug\AnonymousDelegates.exe
+C:\coding\ABC\CSharpTutorial\Ex_Files_C#_events\Exercise Files\Delegates\AnonymousDelegates\AnonymousDelegates\obj\Debug\AnonymousDelegates.pdb

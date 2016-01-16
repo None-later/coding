@@ -1,0 +1,5 @@
+C:\coding\CSharpTutorial\build\Debug\Rulez.Engine\Rulez.Engine.dll
+C:\coding\CSharpTutorial\build\Debug\Rulez.Engine\Rulez.Engine.pdb
+C:\coding\CSharpTutorial\Rulez\Rulez.Engine\obj\Debug\Rulez.Engine.csprojResolveAssemblyReference.cache
+C:\coding\CSharpTutorial\Rulez\Rulez.Engine\obj\Debug\Rulez.Engine.dll
+C:\coding\CSharpTutorial\Rulez\Rulez.Engine\obj\Debug\Rulez.Engine.pdb

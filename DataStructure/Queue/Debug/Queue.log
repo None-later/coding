@@ -1,0 +1,23 @@
+﻿Build started 11/19/2015 8:45:53 PM.
+     1>Project "C:\coding\ABC\DataStructure\Queue\Queue.vcxproj" on node 5 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp QueueTemplate.cpp
+         QueueTemplate.cpp
+     1>c:\coding\abc\datastructure\queue\queuetemplate.cpp(6): error C2143: syntax error : missing ';' before '&'
+     1>c:\coding\abc\datastructure\queue\queuetemplate.cpp(6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\coding\abc\datastructure\queue\queuetemplate.cpp(6): error C2065: 'os' : undeclared identifier
+     1>c:\coding\abc\datastructure\queue\queuetemplate.cpp(6): error C2988: unrecognizable template declaration/definition
+     1>c:\coding\abc\datastructure\queue\queuetemplate.cpp(6): error C2059: syntax error : 'const'
+     1>c:\coding\abc\datastructure\queue\queuetemplate.cpp(6): error C2065: 'T' : undeclared identifier
+     1>c:\coding\abc\datastructure\queue\queuetemplate.cpp(6): error C2923: 'Queue' : 'T' is not a valid template type argument for parameter 'T'
+     1>c:\coding\abc\datastructure\queue\queuetemplate.cpp(13): error C2065: 'T' : undeclared identifier
+     1>c:\coding\abc\datastructure\queue\queuetemplate.cpp(13): error C2923: 'Queue' : 'T' is not a valid template type argument for parameter 'T'
+     1>c:\coding\abc\datastructure\queue\queuetemplate.cpp(14): error C2143: syntax error : missing ';' before '{'
+     1>c:\coding\abc\datastructure\queue\queuetemplate.cpp(14): error C2447: '{' : missing function header (old-style formal list?)
+         main.cpp
+         Generating Code...
+     1>Done Building Project "C:\coding\ABC\DataStructure\Queue\Queue.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:03.80

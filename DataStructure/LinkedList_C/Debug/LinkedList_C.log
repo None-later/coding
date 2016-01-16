@@ -1,0 +1,14 @@
+﻿Build started 11/19/2015 8:46:30 PM.
+     1>Project "C:\coding\ABC\DataStructure\LinkedList_C\LinkedList_C.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt main.c
+         main.c
+     1>c:\coding\abc\datastructure\linkedlist_c\main.c(47): error C2275: 'Position' : illegal use of this type as an expression
+                 c:\coding\abc\datastructure\linkedlist_c\list.h(9) : see declaration of 'Position'
+     1>c:\coding\abc\datastructure\linkedlist_c\main.c(47): error C2146: syntax error : missing ';' before identifier 'Copy'
+     1>c:\coding\abc\datastructure\linkedlist_c\main.c(47): error C2065: 'Copy' : undeclared identifier
+     1>Done Building Project "C:\coding\ABC\DataStructure\LinkedList_C\LinkedList_C.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.28

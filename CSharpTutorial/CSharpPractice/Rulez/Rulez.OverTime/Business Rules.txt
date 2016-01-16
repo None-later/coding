@@ -1,0 +1,20 @@
+BizRules:
+
+This is for a simulated Employee Payroll OT Hours (OTH) Calculator.
+
+1. If the Employee worked 40 or less hours
+	1.1 OTM = 0 
+
+2. If the Employee worked over 40 hrs and Less than 60 hrs
+
+	2.1. If the Employee is Hourly OTH = 1.5 * (Total Hours - 40)
+	
+	2.2. If the Employee is Salary
+		2.2.1 If the Employee worked 45 or less hrs OTH = 0
+		2.2.2 If the Employee worked more than 45 hrs OTH = 1.5 * (Total Hours - 45)
+
+3. If the Employee worked over 60 hrs
+
+	3.1. If the Employee is Hourly OTH = 1.5 * 20 + 2 * (Total Hours - 60)
+	
+	3.2. If the Employee is Salary OTH = 1.5 * 15 + 2 * (Total Hours - 60)
