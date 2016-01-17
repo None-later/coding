@@ -69,6 +69,7 @@
     <ClInclude Include="MaxCounters.h" />
     <ClInclude Include="MinMaxDivision.h" />
     <ClInclude Include="NumberSolitaire.h" />
+    <ClInclude Include="Real_ParitionThree.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

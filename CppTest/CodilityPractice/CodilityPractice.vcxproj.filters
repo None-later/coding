@@ -32,5 +32,8 @@
     <ClInclude Include="MinMaxDivision.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Real_ParitionThree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
