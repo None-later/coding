@@ -1,21 +1,23 @@
-﻿Build started 1/14/2016 3:54:46 PM.
-     1>Project "C:\coding\ABC\CppTest\CrackingCodeInterview\CrackingCodeInterview.vcxproj" on node 2 (Build target(s)).
+﻿Build started 1/16/2016 4:52:28 PM.
+     1>Project "C:\coding\CppTest\CrackingCodeInterview\CrackingCodeInterview.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
          main.cpp
-     1>c:\coding\abc\cpptest\crackingcodeinterview\firstmissingpositive.h(26): warning C4018: '<=' : signed/unsigned mismatch
-     1>c:\coding\abc\cpptest\crackingcodeinterview\woodcut.h(8): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\coding\abc\cpptest\crackingcodeinterview\woodcut.h(20): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\coding\abc\cpptest\crackingcodeinterview\stringtoint.h(15): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\coding\abc\cpptest\crackingcodeinterview\stringtoint.h(51): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\coding\abc\cpptest\crackingcodeinterview\stringtoint.h(54): warning C4244: '+=' : conversion from 'double' to 'long', possible loss of data
-     1>c:\coding\abc\cpptest\crackingcodeinterview\flipcoin.h(20): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\coding\abc\cpptest\crackingcodeinterview\flipcoin.h(27): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\coding\abc\cpptest\crackingcodeinterview\main.cpp(48): error C2440: 'return' : cannot convert from 'int [10][10]' to 'int *'
-                 Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
-     1>c:\coding\abc\cpptest\crackingcodeinterview\main.cpp(66): error C2100: illegal indirection
-     1>Done Building Project "C:\coding\ABC\CppTest\CrackingCodeInterview\CrackingCodeInterview.vcxproj" (Build target(s)) -- FAILED.
+     1>c:\coding\cpptest\crackingcodeinterview\firstmissingpositive.h(26): warning C4018: '<=' : signed/unsigned mismatch
+     1>c:\coding\cpptest\crackingcodeinterview\woodcut.h(8): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\coding\cpptest\crackingcodeinterview\woodcut.h(20): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\coding\cpptest\crackingcodeinterview\stringtoint.h(15): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\coding\cpptest\crackingcodeinterview\stringtoint.h(51): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\coding\cpptest\crackingcodeinterview\stringtoint.h(54): warning C4244: '+=' : conversion from 'double' to 'long', possible loss of data
+     1>c:\coding\cpptest\crackingcodeinterview\flipcoin.h(20): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\coding\cpptest\crackingcodeinterview\flipcoin.h(27): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\coding\cpptest\crackingcodeinterview\main.cpp(54): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\coding\cpptest\crackingcodeinterview\main.cpp(57): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\coding\CppTest\Debug\CrackingCodeInterview.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\coding\CppTest\Debug\CrackingCodeInterview.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\coding\CppTest\Debug\CrackingCodeInterview.lib" /MACHINE:X86 Debug\main.obj
+         CrackingCodeInterview.vcxproj -> C:\coding\CppTest\Debug\CrackingCodeInterview.exe
+     1>Done Building Project "C:\coding\CppTest\CrackingCodeInterview\CrackingCodeInterview.vcxproj" (Build target(s)).
 
-Build FAILED.
+Build succeeded.
 
-Time Elapsed 00:00:00.55
+Time Elapsed 00:00:01.08
