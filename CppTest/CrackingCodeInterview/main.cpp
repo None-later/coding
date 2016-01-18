@@ -50,43 +50,68 @@ int** create2DArray(unsigned rows, unsigned columns)
 	return array2D;
 }
 
+
+// Create a container with 
 template<typename T>
 class MyContainer
 {
 private:
 	std::unordered_map<T, size_t> map;   // item, index
 	std::vector<T> vec;					// items
-	int size = 0;
+
 public:
 	void Insert(const T& obj)
 	{
 		vec.push_back(obj);
-		map[obj] = size++;
+		map[obj] = vec.size() - 1;
 	}
-	void Delete(T obj)
+	void Delete(const T& obj)
 	{
-		if (size != 0)
-		{
-			size_t del = map[obj];
-			size_t end = vec.size() - 1;
-			// swap the delete item with the last item in the vector
-			vec[del] = vec[end];
-			vec[end] = obj;
-			vec.pop_back();
-			
-		}
-	}
-	T& Modify(T obj)
-	{
+		// swap the delete item with the last item in the vector
+		vec[map[obj]] = vec[vec.size()-1];
+		map[vec[vec.size()-1]] = map[obj];
 		
+		vec[vec.size()-1] = obj;
+		vec.pop_back();
+		map.erase(obj);
 	}
-}
+	T& Access(const T& obj)
+	{
+		return vec[map[obj]];
+	}
 
-
+	int size()
+	{
+		return vec.size();
+	}
+	T& operator[](size_t i)
+	{
+		return vec[i];
+	}
+};
 
 
 int main() 
 {
+	MyContainer<char> container1;
+
+	container1.Insert('a');
+	container1.Insert('b');
+	container1.Insert('c');
+	container1.Insert('d');
+	container1.Insert('e');
+
+	container1.Access('e') = 'f';
+	container1.Delete('b');
+
+	for (int i = 0; i < container1.size(); ++i)
+	{
+		cout << container1[i] << endl;
+	}
+
+
+
+
 	int arr[8] = { 1, 1, 0, 1, 0, 0, 1, 1 };
 	vector<int> ivec(arr, arr+8);
 	//priority_queue<int> heap (arr, arr+5);   // max heap
