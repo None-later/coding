@@ -38,5 +38,8 @@
     <ClInclude Include="Real_StackOperation.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Real_PhoneNumber.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

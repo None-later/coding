@@ -70,6 +70,7 @@
     <ClInclude Include="MinMaxDivision.h" />
     <ClInclude Include="NumberSolitaire.h" />
     <ClInclude Include="Real_ParitionThree.h" />
+    <ClInclude Include="Real_PhoneNumber.h" />
     <ClInclude Include="Real_StackOperation.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
